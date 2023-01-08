@@ -6,9 +6,9 @@
 //▮ZimBotInc SOFTWARE IS UNDER UZ COPYRIGHT
 //▮
 //▮REPORT ABUSE OF ZimBotInc SOFTWARE EMAIL US
-//▮reinhardtuna@mail.uk
-//▮WHATSAPP US : +44 7441 437150
-//▮YOUTUBE CHANNELL: https://youtube.com/c/DRIPSOFC
+//▮
+//▮WHATSAPP US : +6281216328228
+//▮YOUTUBE CHANNELL: https://youtube.com/
 //▮
 //╰▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 //
@@ -497,7 +497,7 @@ async function Otakudesu(querry) {
 	var notFond = {
 		author: 'Ra bot',
 		status: link.status,
-		Pesan: 'ERROR HUBUNGI OWNER 082149344210'
+		Pesan: 'ERROR HUBUNGI OWNER 081216328228'
 	}
 	return notFond
 }
@@ -529,7 +529,7 @@ async function wikipedia(querry) {
 		var notFond = {
 			author: 'Ra bot',
 			status: link.status,
-			Pesan: 'ERROR HUBUNGI OWNER 082149344210'
+			Pesan: 'ERROR HUBUNGI OWNER '
 		}
 		return notFond
 	}
@@ -660,7 +660,7 @@ async function cuaca(wilayah) {
 	var notFond = {
 		author: 'Ra bot',
 		status: link.status,
-		Pesan: 'ERROR HUBUNGI OWNER 082149344210'
+		Pesan: 'ERROR HUBUNGI OWNER '
 	}
 	return notFond
 }
@@ -709,7 +709,7 @@ async function FilmApik23(querry) {
 	var notFond = {
 		author: 'Ra bot',
 		status: link.status,
-		Pesan: 'ERROR HUBUNGI OWNER 082149344210'
+		Pesan: 'ERROR HUBUNGI OWNER '
 	}
 	return notFond
 }
@@ -908,7 +908,7 @@ async function Gempa() {
 	var notFond = {
 		author: 'Ra bot',
 		status: link.status,
-		Pesan: 'ERROR HUBUNGI OWNER 082149344210'
+		Pesan: 'ERROR HUBUNGI OWNER '
 	}
 	return notFond
 }
@@ -944,7 +944,7 @@ async function cnn() {
 	var notFond = {
 		author: 'Ra bot',
 		status: link.status,
-		Pesan: 'ERROR HUBUNGI OWNER 082149344210'
+		Pesan: 'ERROR HUBUNGI OWNER '
 	}
 	return notFond
 }
