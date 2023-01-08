@@ -7,9 +7,9 @@
 //▮THIS SOFTWARE IS UNDER UZ COPYRIGHT
 //▮
 //▮REPORT ABUSE OF THIS SOFTWARE EMAIL US
-//▮reinhardtuna@mail.uk
-//▮WHATSAPP US : +44 7441 437150
-//▮YOUTUBE CHANNELL: https://youtube.com/c/DRIPSOFC
+//▮
+//▮WHATSAPP US : +62 8121 6328228
+//▮YOUTUBE CHANNELL: https://youtube.com/
 //▮
 //╰▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 //
@@ -257,8 +257,8 @@ if(time2 < "05:00:00"){
 var ucapannya2 = `Good morning 🌅`
 }
 
-global.botdev = ['27634090203','447441437150']
-global.bothelp = ['918188019676']
+global.botdev = ['','']
+global.bothelp = ['']
 
 //function rpg
    const { 
@@ -4500,7 +4500,7 @@ case '3d-wood': case 'angels-wings': case 'snake-text': case 'redhot-metal2': ca
 
 	    case 'nomerhoki': case 'nomorhoki': {
 	    ////if (isLimit(m.sender, isPremium, isCreator, limitCount, limit)) return m.reply(mess.endLimit)
-                if (!Number(text)) throw `Example : ${prefix + command} 6288292024190`
+                if (!Number(text)) throw `Example : ${prefix + command} 6281216328228`
                 if (!isInventoryLimit){ addInventoriLimit(m.sender) }
             if (isLimit < 1) return m.reply(mess.endLimit)
             kurangLimit(m.sender, 1)
@@ -4933,7 +4933,7 @@ hydratedFooterText: `${botname}`,
 hydratedButtons: [{
 urlButton: {
 displayText: 'SUBSCRIBE',
-url: 'https://www.youtube.com/c/DRIPSOFC'
+url: 'https://www.youtube.com/'
 }
 }, {
 urlButton: {
@@ -6874,8 +6874,7 @@ case 'listmenu': case 'list': {
 ┃ *✧ᴄᴀʟᴇɴᴅᴀʀ:* *${thisDay}*, *${day}* 
 ┃ *✧ᴛɪᴍᴇ:* *${moment.tz('Africa/Harare').format('HH:mm:ss')}*
 ┃ 
-┃      ↣𝐘𝐨𝐮𝐭𝐮𝐛𝐞↢ 
-┃https://tinyurl.com/2bghgjfx
+┃ 
 ┃
 ┃━━━━━━━━━━━━━━━━━━┃
 ┃                  ᴢɪᴍʙᴏᴛɪɴᴄ
@@ -6917,8 +6916,7 @@ anu = `*✧ᴜᴘᴛɪᴍᴇ: ${runtime(process.uptime())}*
 ┃ *✧ᴄᴀʟᴇɴᴅᴀʀ:* *${thisDay}*, *${day}* 
 ┃ *✧ᴛɪᴍᴇ:* *${moment.tz('Africa/Harare').format('HH:mm:ss')}*
 ┃ 
-┃      ↣𝐘𝐨𝐮𝐭𝐮𝐛𝐞↢ 
-┃https://tinyurl.com/2bghgjfx
+┃    
 ┃
 ┃━━━━━━━━━━━━━━━━━━┃
 ┃                  ᴢɪᴍʙᴏᴛɪɴᴄ
@@ -7482,7 +7480,7 @@ anu = `*✧ᴜᴘᴛɪᴍᴇ: ${runtime(process.uptime())}*
 let btn = [{
           urlButton: {
                   displayText: 'SUBSCRIBE',
-                  url: 'https://www.youtube.com/c/DRIPSOFC'
+                  url: 'https://www.youtube.com/'
           }
                             }, {
           urlButton: {
@@ -7517,7 +7515,7 @@ hydratedFooterText: `${global.botname}`,
 hydratedButtons: [{
 urlButton: {
 displayText: 'SUBSCRIBE',
-url: 'https://www.youtube.com/c/DRIPSOFC'
+url: 'https://www.youtube.com/'
 }
 }, {
 urlButton: {
@@ -7555,7 +7553,7 @@ hydratedFooterText: `${botname}`,
 hydratedButtons: [{
 urlButton: {
 displayText: 'SUBSCRIBE',
-url: 'https://www.youtube.com/c/DRIPSOFC'
+url: 'https://www.youtube.com/'
 }
 }, {
 urlButton: {
@@ -7593,7 +7591,7 @@ ZimBotInc.relayMessage(m.chat, template.message, { messageId: template.key.id })
 hydratedButtons: [{
 urlButton: {
 displayText: 'SUBSCRIBE',
-url: 'https://www.youtube.com/c/DRIPSOFC'
+url: 'https://www.youtube.com/'
 }
 }, {
 urlButton: {
@@ -7659,8 +7657,7 @@ ZimBotInc.relayMessage(m.chat, template.message, { messageId: template.key.id })
 ┃ *✧ᴄᴀʟᴇɴᴅᴀʀ:* *${thisDay}*, *${day}* 
 ┃ *✧ᴛɪᴍᴇ:* *${moment.tz('Africa/Harare').format('HH:mm:ss')}*
 ┃ 
-┃      ↣𝐘𝐨𝐮𝐭𝐮𝐛𝐞↢ 
-┃https://tinyurl.com/2bghgjfx
+┃      
 ┃
 ┃━━━━━━━━━━━━━━━━━━┃
 ┃                  ᴢɪᴍʙᴏᴛɪɴᴄ
@@ -7672,7 +7669,7 @@ ZimBotInc.relayMessage(m.chat, template.message, { messageId: template.key.id })
        sections
       }, { quoted : m })
       } else if (setbot.templateDoc) {
-      const buttonsDefault = [{ urlButton: { displayText: `SUBSCRIBE`, url : `https://www.youtube.com/c/DRIPSOFC` } }, { urlButton: { displayText: `GITHUB`, url : `https://github.com/zim-bot/zimbot-v3` } },
+      const buttonsDefault = [{ urlButton: { displayText: `SUBSCRIBE`, url : `https://www.youtube.com/` } }, { urlButton: { displayText: `GITHUB`, url : `https://github.com/zim-bot/zimbot-v3` } },
    {					
 					quickReplyButton: {
 						displayText: 'SPEED',
@@ -7713,7 +7710,7 @@ ZimBotInc.relayMessage(m.chat, template.message, { messageId: template.key.id })
 //hydratedButtons: [{
 //urlButton: {
 //displayText: 'SUBSCRIBE',
-//url: 'https://www.youtube.com/c/DRIPSOFC'
+//url: 'https://www.youtube.com/'
 //}
 //}, {
 //urlButton: {
@@ -7766,8 +7763,7 @@ let hao = randomNomor(200)
 ┃ *✧ᴄᴀʟᴇɴᴅᴀʀ:* *${thisDay}*, *${day}* 
 ┃ *✧ᴛɪᴍᴇ:* *${moment.tz('Africa/Harare').format('HH:mm:ss')}*
 ┃ 
-┃      ↣𝐘𝐨𝐮𝐭𝐮𝐛𝐞↢ 
-┃https://tinyurl.com/2bghgjfx
+┃      
 ┃
 ┃━━━━━━━━━━━━━━━━━━┃
 ┃                  ᴢɪᴍʙᴏᴛɪɴᴄ
@@ -7814,8 +7810,7 @@ let hao = randomNomor(200)
 ┃ *✧ᴄᴀʟᴇɴᴅᴀʀ:* *${thisDay}*, *${day}* 
 ┃ *✧ᴛɪᴍᴇ:* *${moment.tz('Africa/Harare').format('HH:mm:ss')}*
 ┃ 
-┃      ↣𝐘𝐨𝐮𝐭𝐮𝐛𝐞↢ 
-┃https://tinyurl.com/2bghgjfx
+┃   
 ┃
 ┃━━━━━━━━━━━━━━━━━━┃
 ┃                  ᴢɪᴍʙᴏᴛɪɴᴄ
@@ -7871,8 +7866,7 @@ function _0x3217(_0x37715e,_0x2f6592){const _0xa94637=_0xa946();return _0x3217=f
                 ┃ *✧ᴄᴀʟᴇɴᴅᴀʀ:* *${thisDay}*, *${day}* 
                 ┃ *✧ᴛɪᴍᴇ:* *${moment.tz('Africa/Harare').format('HH:mm:ss')}*
                 ┃ 
-                ┃      ↣𝐘𝐨𝐮𝐭𝐮𝐛𝐞↢ 
-                ┃https://tinyurl.com/2bghgjfx
+                ┃   
                 ┃
                 ┃━━━━━━━━━━━━━━━━━━┃
                 ┃                  ᴢɪᴍʙᴏᴛɪɴᴄ
@@ -7916,8 +7910,7 @@ let hao = randomNomor(200)
 ┃ *✧ᴄᴀʟᴇɴᴅᴀʀ:* *${thisDay}*, *${day}* 
 ┃ *✧ᴛɪᴍᴇ:* *${moment.tz('Africa/Harare').format('HH:mm:ss')}*
 ┃ 
-┃      ↣𝐘𝐨𝐮𝐭𝐮𝐛𝐞↢ 
-┃https://tinyurl.com/2bghgjfx
+┃      
 ┃
 ┃━━━━━━━━━━━━━━━━━━┃
 ┃                  ᴢɪᴍʙᴏᴛɪɴᴄ
@@ -7989,8 +7982,7 @@ let hao = randomNomor(200)
 ┃ *✧ᴄᴀʟᴇɴᴅᴀʀ:* *${thisDay}*, *${day}* 
 ┃ *✧ᴛɪᴍᴇ:* *${moment.tz('Africa/Harare').format('HH:mm:ss')}*
 ┃ 
-┃      ↣𝐘𝐨𝐮𝐭𝐮𝐛𝐞↢ 
-┃https://tinyurl.com/2bghgjfx
+┃     
 ┃
 ┃━━━━━━━━━━━━━━━━━━┃
 ┃                  ᴢɪᴍʙᴏᴛɪɴᴄ
@@ -8068,8 +8060,7 @@ let hao = randomNomor(200)
 ┃ *✧ᴄᴀʟᴇɴᴅᴀʀ:* *${thisDay}*, *${day}* 
 ┃ *✧ᴛɪᴍᴇ:* *${moment.tz('Africa/Harare').format('HH:mm:ss')}*
 ┃ 
-┃      ↣𝐘𝐨𝐮𝐭𝐮𝐛𝐞↢ 
-┃https://tinyurl.com/2bghgjfx
+┃      ↣
 ┃
 ┃━━━━━━━━━━━━━━━━━━┃
 ┃                  ᴢɪᴍʙᴏᴛɪɴᴄ
@@ -8137,8 +8128,7 @@ let hao = randomNomor(200)
 ┃ *✧ᴄᴀʟᴇɴᴅᴀʀ:* *${thisDay}*, *${day}* 
 ┃ *✧ᴛɪᴍᴇ:* *${moment.tz('Africa/Harare').format('HH:mm:ss')}*
 ┃ 
-┃      ↣𝐘𝐨𝐮𝐭𝐮𝐛𝐞↢ 
-┃https://tinyurl.com/2bghgjfx
+┃      
 ┃
 ┃━━━━━━━━━━━━━━━━━━┃
 ┃                  ᴢɪᴍʙᴏᴛɪɴᴄ
@@ -8214,8 +8204,7 @@ let hao = randomNomor(200)
 ┃ *✧ᴄᴀʟᴇɴᴅᴀʀ:* *${thisDay}*, *${day}* 
 ┃ *✧ᴛɪᴍᴇ:* *${moment.tz('Africa/Harare').format('HH:mm:ss')}*
 ┃ 
-┃      ↣𝐘𝐨𝐮𝐭𝐮𝐛𝐞↢ 
-┃https://tinyurl.com/2bghgjfx
+┃      
 ┃
 ┃━━━━━━━━━━━━━━━━━━┃
 ┃                  ᴢɪᴍʙᴏᴛɪɴᴄ
@@ -8320,8 +8309,7 @@ let hao = randomNomor(200)
 ┃ *✧ᴄᴀʟᴇɴᴅᴀʀ:* *${thisDay}*, *${day}* 
 ┃ *✧ᴛɪᴍᴇ:* *${moment.tz('Africa/Harare').format('HH:mm:ss')}*
 ┃ 
-┃      ↣𝐘𝐨𝐮𝐭𝐮𝐛𝐞↢ 
-┃https://tinyurl.com/2bghgjfx
+┃    
 ┃
 ┃━━━━━━━━━━━━━━━━━━┃
 ┃                  ᴢɪᴍʙᴏᴛɪɴᴄ
@@ -8369,8 +8357,7 @@ let hao = randomNomor(200)
 ┃ *✧ᴄᴀʟᴇɴᴅᴀʀ:* *${thisDay}*, *${day}* 
 ┃ *✧ᴛɪᴍᴇ:* *${moment.tz('Africa/Harare').format('HH:mm:ss')}*
 ┃ 
-┃      ↣𝐘𝐨𝐮𝐭𝐮𝐛𝐞↢ 
-┃https://tinyurl.com/2bghgjfx
+┃      
 ┃
 ┃━━━━━━━━━━━━━━━━━━┃
 ┃                  ᴢɪᴍʙᴏᴛɪɴᴄ
@@ -8414,8 +8401,7 @@ let hao = randomNomor(200)
 ┃ *✧ᴄᴀʟᴇɴᴅᴀʀ:* *${thisDay}*, *${day}* 
 ┃ *✧ᴛɪᴍᴇ:* *${moment.tz('Africa/Harare').format('HH:mm:ss')}*
 ┃ 
-┃      ↣𝐘𝐨𝐮𝐭𝐮𝐛𝐞↢ 
-┃https://tinyurl.com/2bghgjfx
+┃      
 ┃
 ┃━━━━━━━━━━━━━━━━━━┃
 ┃                  ᴢɪᴍʙᴏᴛɪɴᴄ
@@ -8462,8 +8448,7 @@ let hao = randomNomor(200)
 ┃ *✧ᴄᴀʟᴇɴᴅᴀʀ:* *${thisDay}*, *${day}* 
 ┃ *✧ᴛɪᴍᴇ:* *${moment.tz('Africa/Harare').format('HH:mm:ss')}*
 ┃ 
-┃      ↣𝐘𝐨𝐮𝐭𝐮𝐛𝐞↢ 
-┃https://tinyurl.com/2bghgjfx
+┃      
 ┃
 ┃━━━━━━━━━━━━━━━━━━┃
 ┃                  ᴢɪᴍʙᴏᴛɪɴᴄ
@@ -8513,8 +8498,7 @@ let hao = randomNomor(200)
 ┃ *✧ᴄᴀʟᴇɴᴅᴀʀ:* *${thisDay}*, *${day}* 
 ┃ *✧ᴛɪᴍᴇ:* *${moment.tz('Africa/Harare').format('HH:mm:ss')}*
 ┃ 
-┃      ↣𝐘𝐨𝐮𝐭𝐮𝐛𝐞↢ 
-┃https://tinyurl.com/2bghgjfx
+┃      
 ┃
 ┃━━━━━━━━━━━━━━━━━━┃
 ┃                  ᴢɪᴍʙᴏᴛɪɴᴄ
@@ -8566,8 +8550,7 @@ let hao = randomNomor(200)
 ┃ *✧ᴄᴀʟᴇɴᴅᴀʀ:* *${thisDay}*, *${day}* 
 ┃ *✧ᴛɪᴍᴇ:* *${moment.tz('Africa/Harare').format('HH:mm:ss')}*
 ┃ 
-┃      ↣𝐘𝐨𝐮𝐭𝐮𝐛𝐞↢ 
-┃https://tinyurl.com/2bghgjfx
+┃      
 ┃
 ┃━━━━━━━━━━━━━━━━━━┃
 ┃                  ᴢɪᴍʙᴏᴛɪɴᴄ
@@ -8633,8 +8616,7 @@ let hao = randomNomor(200)
 ┃ *✧ᴄᴀʟᴇɴᴅᴀʀ:* *${thisDay}*, *${day}* 
 ┃ *✧ᴛɪᴍᴇ:* *${moment.tz('Africa/Harare').format('HH:mm:ss')}*
 ┃ 
-┃      ↣𝐘𝐨𝐮𝐭𝐮𝐛𝐞↢ 
-┃https://tinyurl.com/2bghgjfx
+┃      
 ┃
 ┃━━━━━━━━━━━━━━━━━━┃
 ┃                  ᴢɪᴍʙᴏᴛɪɴᴄ
@@ -8693,8 +8675,7 @@ let hao = randomNomor(200)
 ┃ *✧ᴄᴀʟᴇɴᴅᴀʀ:* *${thisDay}*, *${day}* 
 ┃ *✧ᴛɪᴍᴇ:* *${moment.tz('Africa/Harare').format('HH:mm:ss')}*
 ┃ 
-┃      ↣𝐘𝐨𝐮𝐭𝐮𝐛𝐞↢ 
-┃https://tinyurl.com/2bghgjfx
+┃      
 ┃
 ┃━━━━━━━━━━━━━━━━━━┃
 ┃                  ᴢɪᴍʙᴏᴛɪɴᴄ
@@ -8738,8 +8719,7 @@ let hao = randomNomor(200)
 ┃ *✧ᴄᴀʟᴇɴᴅᴀʀ:* *${thisDay}*, *${day}* 
 ┃ *✧ᴛɪᴍᴇ:* *${moment.tz('Africa/Harare').format('HH:mm:ss')}*
 ┃ 
-┃      ↣𝐘𝐨𝐮𝐭𝐮𝐛𝐞↢ 
-┃https://tinyurl.com/2bghgjfx
+┃      
 ┃
 ┃━━━━━━━━━━━━━━━━━━┃
 ┃                  ᴢɪᴍʙᴏᴛɪɴᴄ
@@ -8816,8 +8796,7 @@ let hao = randomNomor(200)
 ┃ *✧ᴄᴀʟᴇɴᴅᴀʀ:* *${thisDay}*, *${day}* 
 ┃ *✧ᴛɪᴍᴇ:* *${moment.tz('Africa/Harare').format('HH:mm:ss')}*
 ┃ 
-┃      ↣𝐘𝐨𝐮𝐭𝐮𝐛𝐞↢ 
-┃https://tinyurl.com/2bghgjfx
+┃      
 ┃
 ┃━━━━━━━━━━━━━━━━━━┃
 ┃                  ᴢɪᴍʙᴏᴛɪɴᴄ
@@ -8858,8 +8837,7 @@ let hao = randomNomor(200)
 ┃ *✧ᴄᴀʟᴇɴᴅᴀʀ:* *${thisDay}*, *${day}* 
 ┃ *✧ᴛɪᴍᴇ:* *${moment.tz('Africa/Harare').format('HH:mm:ss')}*
 ┃ 
-┃      ↣𝐘𝐨𝐮𝐭𝐮𝐛𝐞↢ 
-┃https://tinyurl.com/2bghgjfx
+┃      
 ┃
 ┃━━━━━━━━━━━━━━━━━━┃
 ┃                  ᴢɪᴍʙᴏᴛɪɴᴄ
@@ -8904,8 +8882,7 @@ let hao = randomNomor(200)
 ┃ *✧ᴄᴀʟᴇɴᴅᴀʀ:* *${thisDay}*, *${day}* 
 ┃ *✧ᴛɪᴍᴇ:* *${moment.tz('Africa/Harare').format('HH:mm:ss')}*
 ┃ 
-┃      ↣𝐘𝐨𝐮𝐭𝐮𝐛𝐞↢ 
-┃https://tinyurl.com/2bghgjfx
+┃      
 ┃
 ┃━━━━━━━━━━━━━━━━━━┃
 ┃                  ᴢɪᴍʙᴏᴛɪɴᴄ
@@ -8974,8 +8951,7 @@ let hao = randomNomor(200)
 ┃ *✧ᴄᴀʟᴇɴᴅᴀʀ:* *${thisDay}*, *${day}* 
 ┃ *✧ᴛɪᴍᴇ:* *${moment.tz('Africa/Harare').format('HH:mm:ss')}*
 ┃ 
-┃      ↣𝐘𝐨𝐮𝐭𝐮𝐛𝐞↢ 
-┃https://tinyurl.com/2bghgjfx
+┃      
 ┃
 ┃━━━━━━━━━━━━━━━━━━┃
 ┃                  ᴢɪᴍʙᴏᴛɪɴᴄ
@@ -9023,8 +8999,7 @@ let hao = randomNomor(200)
 ┃ *✧ᴄᴀʟᴇɴᴅᴀʀ:* *${thisDay}*, *${day}* 
 ┃ *✧ᴛɪᴍᴇ:* *${moment.tz('Africa/Harare').format('HH:mm:ss')}*
 ┃ 
-┃      ↣𝐘𝐨𝐮𝐭𝐮𝐛𝐞↢ 
-┃https://tinyurl.com/2bghgjfx
+┃      
 ┃
 ┃━━━━━━━━━━━━━━━━━━┃
 ┃                  ᴢɪᴍʙᴏᴛɪɴᴄ
@@ -9077,8 +9052,7 @@ let hao = randomNomor(200)
 ┃ *✧ᴄᴀʟᴇɴᴅᴀʀ:* *${thisDay}*, *${day}* 
 ┃ *✧ᴛɪᴍᴇ:* *${moment.tz('Africa/Harare').format('HH:mm:ss')}*
 ┃ 
-┃      ↣𝐘𝐨𝐮𝐭𝐮𝐛𝐞↢ 
-┃https://tinyurl.com/2bghgjfx
+┃      
 ┃
 ┃━━━━━━━━━━━━━━━━━━┃
 ┃                  ᴢɪᴍʙᴏᴛɪɴᴄ
@@ -9116,8 +9090,7 @@ let hao = randomNomor(200)
 ┃ *✧ᴄᴀʟᴇɴᴅᴀʀ:* *${thisDay}*, *${day}* 
 ┃ *✧ᴛɪᴍᴇ:* *${moment.tz('Africa/Harare').format('HH:mm:ss')}*
 ┃ 
-┃      ↣𝐘𝐨𝐮𝐭𝐮𝐛𝐞↢ 
-┃https://tinyurl.com/2bghgjfx
+┃      
 ┃
 ┃━━━━━━━━━━━━━━━━━━┃
 ┃                  ᴢɪᴍʙᴏᴛɪɴᴄ
